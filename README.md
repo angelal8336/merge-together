@@ -1,6 +1,6 @@
 Ada
-and 
+and
 Angela
-is 
+is
 muy
-bien
+good
