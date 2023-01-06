@@ -1,6 +1,7 @@
 Ada
-and 
+and
 Angela
-is 
+is
+not
 muy
 bien
